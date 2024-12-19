@@ -1,3 +1,9 @@
+# Local misc #
+##############
+
+# dockers #
+###########
+
 # Compiled source #
 ###################
 *.com
@@ -6,6 +12,8 @@
 *.exe
 *.o
 *.so
+# Ignore all __pycache__ directories
+ **/__pycache__/
 
 # Packages #
 ############
@@ -25,6 +33,9 @@
 *.log
 *.sql
 *.sqlite
+*.db
+*.db-shm
+*.db-wal
 
 # OS generated files #
 ######################
@@ -35,3 +46,4 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+@eaDir/

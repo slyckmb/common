@@ -2117,6 +2117,187 @@
             "uniqueId": "823xtruyca4",
             "isEnabled": false,
             "isEnabledInContextMenu": false
+        },
+        {
+            "type": "custom",
+            "name": "forum.mobilism",
+            "searchUrl": "https://forum.mobilism.me/search.php?keywords={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}&sr=topics&sf=titleonly",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "vhxnftyes5",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "nzbfinder.ws",
+            "searchUrl": "https://nzbfinder.ws/search?search={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}&t=-1",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "wdx45wskls",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "nzbgeek.info",
+            "searchUrl": "https://nzbgeek.info/geekseek.php?moviesgeekseek=1&c=&browseincludewords={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "ori5y3jnzt",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "nzbplanet",
+            "searchUrl": "https://www.nzbplanet.net/search/{searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "cv0s1ykzhr",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "cse.google",
+            "searchUrl": "https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd#gsc.tab=0&gsc.q={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}&gsc.sort=",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "y223qwiy6z",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "ravebooksearch",
+            "searchUrl": "https://ravebooksearch.com/index-audiobooks#gsc.tab=0&gsc.q={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}&gsc.sort=",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "tjwkoxz9j1",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "audiobooksbee",
+            "searchUrl": "https://audiobooksbee.com/?s={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}&post_type=post",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "vmsz2jptj8",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "audiobookss",
+            "searchUrl": "https://audiobookss.com/?s={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "n93bdf813y",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "learnoutloud",
+            "searchUrl": "https://www.learnoutloud.com/Search?q={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}&sa=Go&client=pub-9876342170445144&forid=1&ie=ISO-8859-1&oe=ISO-8859-1&channel=9332844247&flav=0000&sig=PVTa8st9OOWbPEzC&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23FFFFFF%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3AFFFFFF%3BALC%3A0033CC%3BLC%3A0033CC%3BT%3A000000%3BGFNT%3A0033CC%3BGIMP%3A0033CC%3BLH%3A0%3BLW%3A0%3BL%3Ahttps%3A%2F%2Fwww.learnoutloud.com%2Fimages%2FLOLsitesearchadsenseframe.gif%3BS%3Ahttps%3A%2F%2Fwww.learnoutloud.com%3BFORID%3A11&domains=www.learnoutloud.com&sitesearch=www.learnoutloud.com&hl=en",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "iqlceqqnnm",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "sharedaudiobooks.co",
+            "searchUrl": "https://sharedaudiobooks.co/?s={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "spqhbyshv5",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "goldenaudiobook",
+            "searchUrl": "https://goldenaudiobook.net/?s={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}&id=28332",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "sqiqe4jgpo",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "readsforme",
+            "searchUrl": "https://www.readsforme.com/search?q={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "43kzevt5rg",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "digitalbook",
+            "searchUrl": "https://www.digitalbook.io/search/audiobook/all/{searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "bzo1uccff1",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "librivox",
+            "searchUrl": "https://librivox.org/search/?q={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}&search_form=advanced",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "vklpjklwbb",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "bookradio.vercel.app",
+            "searchUrl": "https://bookradio.vercel.app/audiobooks?search={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "hkk079xt9u",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "audiobooks4soul",
+            "searchUrl": "https://audiobooks4soul.com/?s={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "zqp4f443cs",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "type": "custom",
+            "name": "appaudiobooks",
+            "searchUrl": "https://appaudiobooks.net/?s={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}",
+            "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
+            "uniqueId": "j3tcclpuiq",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
+            "name": "ab_search",
+            "enginesUniqueIds": [
+                "wdx45wskls",
+                "vklpjklwbb",
+                "tjwkoxz9j1",
+                "y223qwiy6z",
+                "vhxnftyes5",
+                "spqhbyshv5",
+                "hkk079xt9u",
+                "zqp4f443cs",
+                "j3tcclpuiq",
+                "ori5y3jnzt",
+                "43kzevt5rg",
+                "vmsz2jptj8",
+                "n93bdf813y",
+                "sqiqe4jgpo",
+                "cv0s1ykzhr",
+                "iqlceqqnnm",
+                "bzo1uccff1"
+            ],
+            "iconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABTElEQVRIS2NkwAP+NzQoAKV9wJiREcSWgip/xvD//wMgewsIMzY0gNhYASM20f8tLbIMf/5UAeUy8DkASW4mAwtLK2NNzWN09RgWAF0dAXTtIqALWYk0HKbsD5ARC/TNCmR9KBb8b2ysBhrcQqLBqMoZGWsY6+tbYYJwC8AuZ2BYTpHhCM2RMJ+ALYCG+T0gk4UqFjAy/mZgZlYGxQnEgoaGGUAqnSqGIwyZAfRFJiM0Kd6nsuEw4xRBFuQAeZNpZEEuyIIdQMPdaWTBTkZg0rwBTJrqNLGAkfEmyIJPQAt4aWTBZ7pYQOMgonkk0yGZKgAjmHYZDVpUTAfSxJb9xCa4mcCiIgNR2P39e5eMOgCXZX+AFZASvLCD+oJ2xTXMGTStcOCWQCqexSTXDaA64P//OLxVJtwSSKVfTUIdMQMY5m1EVfrIsUaNZgsAJGuUM7/xEzEAAAAASUVORK5CYII=",
+            "color": "#ff8080",
+            "type": "group",
+            "uniqueId": "do1iy9ggh7",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
         }
     ],
     "sectionsExpansionState": {
