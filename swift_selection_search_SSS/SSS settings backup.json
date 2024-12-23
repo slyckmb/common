@@ -662,6 +662,34 @@
             "isEnabledInContextMenu": true
         },
         {
+            "name": "ab_search",
+            "enginesUniqueIds": [
+                "wdx45wskls",
+                "vklpjklwbb",
+                "tjwkoxz9j1",
+                "y223qwiy6z",
+                "vhxnftyes5",
+                "spqhbyshv5",
+                "hkk079xt9u",
+                "zqp4f443cs",
+                "j3tcclpuiq",
+                "ori5y3jnzt",
+                "43kzevt5rg",
+                "vmsz2jptj8",
+                "n93bdf813y",
+                "sqiqe4jgpo",
+                "cv0s1ykzhr",
+                "iqlceqqnnm",
+                "bzo1uccff1"
+            ],
+            "iconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABmElEQVRIS7WWv0vDQBTH72xRdBEcRVCwIDj4B7i6W/BnEUT/BXHQQLWtQdTFv0EXf1JL3QTdHV0ECx0UxFF0iSLU+LmQSEzbNJJe4XHHvXffz0t6ee+kCPnlRb4P9ww2iaWwfjf8hbEqhSzbwi4S99pMRjZysGGA9U1sCesMSwLfF3aAmex7DsbWAQqikCarIwJ7WggH3RYLi0Au/I4/AMQNxLcJaPhkEYA2r83IidyeF/srhPg04mc4OiIIhYV8A8kAOVdBDoDHGmO4xbpjinvbP5iMo3vnAU5YmG+TuCdzCiAjTWEO10St2mZxRy4hEikJZZ35jg4AmisKcM1kQhPgSgEeER/UBKgowCfiXZoA7wrwhnivTsAD4iOaAM4r0vkn3+g+pob+D82tRfpKhQsYYrzH/tsDmp0NKymSo1mRffKX61m3XMc9UKpcz1Gui0oo2HDWgOzGJKxyMvc9jbrOhXMK5zHWqhcH87DIfIHMy35HWNPfIHA5Akg1/UNsK1LT99PVtYWsVCtNsx68tlRYK2GXYdeWH++wdVc49SqQAAAAAElFTkSuQmCC",
+            "color": "#800080",
+            "type": "group",
+            "uniqueId": "do1iy9ggh7",
+            "isEnabled": true,
+            "isEnabledInContextMenu": true
+        },
+        {
             "type": "custom",
             "name": "myanonamouse",
             "searchUrl": "https://www.myanonamouse.net/tor/browse.php?tor%5Btext%5D={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}&tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&&&tor%5BminSize%5D=0&tor%5BmaxSize%5D=0&tor%5Bunit%5D=1&tor%5BminSeeders%5D=0&tor%5BmaxSeeders%5D=0&tor%5BminLeechers%5D=0&tor%5BmaxLeechers%5D=0&tor%5BminSnatched%5D=0&tor%5BmaxSnatched%5D=0&&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0&thumbnail=true",
@@ -2268,34 +2296,6 @@
             "searchUrl": "https://appaudiobooks.net/?s={searchTerms{+| }{-| }{.| }{:| }{_| }{re/\\b(Standalone|epub|by)\\b|[^a-zA-Z0-9\\s]+/gi|}(lowercase)}",
             "iconUrl": "https://www.nzb.su/templates/dark/images/icons/favicon.ico",
             "uniqueId": "j3tcclpuiq",
-            "isEnabled": true,
-            "isEnabledInContextMenu": true
-        },
-        {
-            "name": "ab_search",
-            "enginesUniqueIds": [
-                "wdx45wskls",
-                "vklpjklwbb",
-                "tjwkoxz9j1",
-                "y223qwiy6z",
-                "vhxnftyes5",
-                "spqhbyshv5",
-                "hkk079xt9u",
-                "zqp4f443cs",
-                "j3tcclpuiq",
-                "ori5y3jnzt",
-                "43kzevt5rg",
-                "vmsz2jptj8",
-                "n93bdf813y",
-                "sqiqe4jgpo",
-                "cv0s1ykzhr",
-                "iqlceqqnnm",
-                "bzo1uccff1"
-            ],
-            "iconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABTElEQVRIS2NkwAP+NzQoAKV9wJiREcSWgip/xvD//wMgewsIMzY0gNhYASM20f8tLbIMf/5UAeUy8DkASW4mAwtLK2NNzWN09RgWAF0dAXTtIqALWYk0HKbsD5ARC/TNCmR9KBb8b2ysBhrcQqLBqMoZGWsY6+tbYYJwC8AuZ2BYTpHhCM2RMJ+ALYCG+T0gk4UqFjAy/mZgZlYGxQnEgoaGGUAqnSqGIwyZAfRFJiM0Kd6nsuEw4xRBFuQAeZNpZEEuyIIdQMPdaWTBTkZg0rwBTJrqNLGAkfEmyIJPQAt4aWTBZ7pYQOMgonkk0yGZKgAjmHYZDVpUTAfSxJb9xCa4mcCiIgNR2P39e5eMOgCXZX+AFZASvLCD+oJ2xTXMGTStcOCWQCqexSTXDaA64P//OLxVJtwSSKVfTUIdMQMY5m1EVfrIsUaNZgsAJGuUM7/xEzEAAAAASUVORK5CYII=",
-            "color": "#ff8080",
-            "type": "group",
-            "uniqueId": "do1iy9ggh7",
             "isEnabled": true,
             "isEnabledInContextMenu": true
         }

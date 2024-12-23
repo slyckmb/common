@@ -1,0 +1,3 @@
+The automatic formatting of JSON files:
+    Open the Command Palette: Press Ctrl + Shift + P (or Cmd + Shift + P on macOS). 
+    Search for "Format Document": Type "Format Document".
